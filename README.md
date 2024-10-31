@@ -1,5 +1,9 @@
 Lung and Colon Cancer Diagnosis with Deep Learning
 
+
+Vamshi Samudrala
+
+
 This project focuses on improving how we diagnose lung and colon cancer by using deep learning models to analyze histopathological images—essentially, detailed images of tissue samples. Examining these images under a microscope is a standard approach for identifying cancer cells, but it can be time-consuming and challenging. By creating a reliable classification model, this project aims to give pathologists a powerful tool to make diagnosis faster and more accurate in clinical settings.
 
 ### Key Research Questions
