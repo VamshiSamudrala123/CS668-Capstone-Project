@@ -1,40 +1,29 @@
-Lung and Colon Cancer Diagnosis Using Deep Learning on Histopathological Images
+Lung and Colon Cancer Diagnosis with Deep Learning
 
-This project aims to improve the accuracy and efficiency of lung and colon cancer diagnosis through deep learning models applied to histopathological images. Histopathological analysis, which involves the microscopic examination of tissue samples, is crucial for identifying cancerous cells. By developing a robust classification model, this project seeks to support pathologists in clinical settings, enabling faster and more accurate diagnoses.
+This project focuses on improving how we diagnose lung and colon cancer by using deep learning models to analyze histopathological images—essentially, detailed images of tissue samples. Examining these images under a microscope is a standard approach for identifying cancer cells, but it can be time-consuming and challenging. By creating a reliable classification model, this project aims to give pathologists a powerful tool to make diagnosis faster and more accurate in clinical settings.
 
-### Research Questions
-1. Can a deep learning model accurately classify lung and colon cancer histopathological images into categories such as:
+### Key Research Questions
+1. Can a deep learning model distinguish between various types of lung and colon tissues, including:
    - Colon adenocarcinoma
-   - Benign colonic tissue
+   - Normal (benign) colon tissue
    - Lung adenocarcinoma
    - Lung squamous cell carcinoma
-   - Benign lung tissue?
-   
-2. Can this model be effectively integrated into clinical workflows to assist pathologists in diagnostic tasks?
+   - Normal (benign) lung tissue?
 
-### Dataset: LC25000
-- **Origin**: Developed by researchers at the University of California, Irvine.
-- **Description**: The LC25000 dataset contains 25,000 high-quality color images of lung and colon tissues, categorized into five classes:
-  - Colon adenocarcinoma
-  - Benign colonic tissue
-  - Lung adenocarcinoma
-  - Lung squamous cell carcinoma
-  - Benign lung tissue
-- **Image Resolution**: Each image has a resolution of 768x768 pixels, providing sufficient detail for model training and validation.
-- **Source**: [LC25000 Lung and Colon Histopathological Image Dataset - Academic Torrents](https://academictorrents.com/details/5d7d4b76380c47168027f6e2d58aa6d2fefb08b1).
+2. Is it feasible to integrate this model into clinical workflows to assist pathologists and enhance diagnostic accuracy?
+
+### About the Dataset: LC25000
+- **Source**: The dataset, developed by researchers at the University of California, Irvine, provides a large number of tissue images to support cancer research.
+- **Description**: LC25000 includes 25,000 high-resolution color images of lung and colon tissue samples. The images are grouped into five categories: colon adenocarcinoma, benign colon tissue, lung adenocarcinoma, lung squamous cell carcinoma, and benign lung tissue, with 5,000 images for each class.
+- **Resolution**: Each image has a resolution of 768x768 pixels, ensuring enough detail for accurate model training.
+- **Access**: You can find the dataset [here](https://academictorrents.com/details/5d7d4b76380c47168027f6e2d58aa6d2fefb08b1).
 
 ### Motivation
-- **Technical Motivation**: To advance computer vision applications in medical image analysis, exploring how data-driven models can support diagnostic workflows.
-- **Personal Motivation**: To make a meaningful impact on healthcare and progress in a data science career focused on medical applications.
+- **Technical Drive**: This project is an opportunity to explore the potential of computer vision for medical image analysis. The goal is to harness deep learning to support diagnostic work, pushing forward what’s possible with data-driven healthcare solutions.
+- **Personal Drive**: Cancer diagnosis can be life-changing. Helping to create tools that improve early and accurate detection would be incredibly rewarding, and it aligns with my long-term goal of using data science in impactful ways within the medical field.
 
-### Methodology
+### Project Approach
 
-- The deep learning model architecture and preprocessing techniques used will be documented here, along with justifications for each approach.
+### Results and Findings
 
-### Results
-
-
-### Poster
-
-
-
+### Project Poster
