@@ -16,7 +16,7 @@ This project focuses on improving how we diagnose lung and colon cancer by using
 - **Source**: The dataset, developed by researchers at the University of California, Irvine, provides a large number of tissue images to support cancer research.
 - **Description**: LC25000 includes 25,000 high-resolution color images of lung and colon tissue samples. The images are grouped into five categories: colon adenocarcinoma, benign colon tissue, lung adenocarcinoma, lung squamous cell carcinoma, and benign lung tissue, with 5,000 images for each class.
 - **Resolution**: Each image has a resolution of 768x768 pixels, ensuring enough detail for accurate model training.
-- **Access**: You can find the dataset [here](https://academictorrents.com/details/5d7d4b76380c47168027f6e2d58aa6d2fefb08b1).
+- **Access**: You can find the dataset [https://academictorrents.com/details/5d7d4b76380c47168027f6e2d58aa6d2fefb08b1](https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af).
 
 ### Motivation
 - **Technical Drive**: This project is an opportunity to explore the potential of computer vision for medical image analysis. The goal is to harness deep learning to support diagnostic work, pushing forward what’s possible with data-driven healthcare solutions.
