@@ -28,16 +28,13 @@ This project aims to improve the accuracy and efficiency of lung and colon cance
 - **Personal Motivation**: To make a meaningful impact on healthcare and progress in a data science career focused on medical applications.
 
 ### Methodology
-*(To be completed at the end of the semester)*
 
 - The deep learning model architecture and preprocessing techniques used will be documented here, along with justifications for each approach.
 
 ### Results
-*(To be completed at the end of the semester)*
 
-- The final results will be summarized, including accuracy metrics and key visualizations. 
 
 ### Poster
-*(To be added as an image)*
+
 
 
