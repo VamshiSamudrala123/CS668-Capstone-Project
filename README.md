@@ -1,4 +1,4 @@
-**Lung and Colon Cancer Diagnosis with Deep Learning**
+**Deep Learning for Lung and Colon Cancer Classification**
 
 
 Vamshi Samudrala
