@@ -32,7 +32,33 @@ This project focuses on leveraging deep learning models to improve the accuracy 
 
 **Results**  
 - **ResNet-50**: High performance with better generalization and clinical applicability.  
-- **Custom CNN Model**: Performed well but required additional tuning for comparable results.  
+- **Custom CNN Model**: Performed well but required additional tuning for comparable results.
+- Model
+Accuracy (%)
+Additional Notes
+Pretrained Model (ResNet50)
+99.5
+Before applying CSIP
+Pretrained Model (ResNet50)
+99
+After applying CSIP
+CNN Model
+94.5
+Initial performance
+Fine-Tuned CNN
+96.8
+Improved through hyperparameter tuning
+CNN with CSIP
+95
+After applying CSIP
+CNN without One-Hot Encoding
+93
+Baseline performance without encoding
+Fine-Tuned CNN with Encoding
+97
+After applying one-hot encoding and tuning
+<img width="763" alt="image" src="https://github.com/user-attachments/assets/51649c4f-6c30-4d80-9adc-78d5c5bbd970">
+
 
 
 **Motivation**
