@@ -18,16 +18,12 @@ This project focuses on leveraging deep learning models to improve the accuracy 
 - **Source**: [LC25000 Lung and Colon Histopathological Dataset - Academic Torrents](https://academictorrents.com/details/5d7d4b76380c47168027f6e2d58aa6d2fefb08b1).  
 
 **Methodology**
-1. **Data Preparation**:  
-   - Converted all images to grayscale for consistent preprocessing.  
-   - Applied data augmentation techniques to increase variability and avoid overfitting.  
-
-2. **Modeling**:
+1. **Modeling**:
    - Implemented and compared **ResNet-50** and a **custom CNN model** for classification.  
    - Fine-tuned ResNet-50 and applied **class-specific image processing (CSIP)** for improved accuracy.  
    - Models were evaluated using metrics such as accuracy, precision, recall, and F1-score.  
 
-3. **Optimization and Evaluation**:  
+2. **Optimization and Evaluation**:  
    - ResNet-50 achieved a **99% accuracy**, while the custom CNN model achieved **97% accuracy** after fine-tuning and CSIP.  
 
 **Results**  
